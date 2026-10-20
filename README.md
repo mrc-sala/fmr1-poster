@@ -1,11 +1,9 @@
-# FMR1 poster supplementary video
+# FMR1 poster supplementary videos
 
-This repository is intentionally private. GitHub Pages is not enabled.
+Marco Salamanca.
 
-The prepared page contains the approved V11 closed-loop adaptation video.
-Do not change visibility or activate Pages until the owner requests release.
+Stable poster links:
+- https://mrc-sala.github.io/fmr1-poster/#adaptation
+- https://mrc-sala.github.io/fmr1-poster/#social
 
-Future Pages source: the default branch, repository root.
-Future QR destination: https://mrc-sala.github.io/fmr1-poster/#adaptation
-
-The poster QR is prepared for that future address; it is inactive before release.
+Media can be updated while retaining these URLs. Social clips use full-body tracking and start at0.5x playback.
